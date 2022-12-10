@@ -12,9 +12,15 @@
 - [MIT 18.102 Introduction to Functional Analysis, Spring 2021](https://www.youtube.com/playlist?list=PLUl4u3cNGP63micsJp_--fRAjZXPrQzW_)
 - [MIT 18.100A Real Analysis, Fall 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw)
 - [MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
-- []()
 
 ---
+
+- [PSI 2016/2017 - Lie Groups and Lie Algebras (Xu)](https://pirsa.org/C16022)
+- [PSI 2016/2017 - Functions, "Functions", etc. (Wohns)](https://pirsa.org/C16023)
+- [PSI 2014/2015 - Foundations of Quantum Mechanics (Hardy)](https://pirsa.org/C15003)
+- [PSI 2019/2020 - Quantum Theory (Branczyk/Dupuis)](https://pirsa.org/C19038)
+- [11/12 PSI - Orientation Weeks](https://pirsa.org/C11017)
+- []
 
 - Introduction to Mathematical Logic
 
